@@ -13,7 +13,7 @@
 <a href="https://instagram.com/lae_nainggolan">![instagram](https://user-images.githubusercontent.com/17777357/92083471-4a239000-edf0-11ea-84c1-3d944b623984.png)</a>
 
 ## :zap: Technologies
-<a href="#"><img src="https://img.shields.io/badge/NodeJS-339933.svg?&style=for-the-badge&logo=javascript&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/NodeJS-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
 <!--<a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>-->
 <!--<a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>-->
